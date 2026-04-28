@@ -1,75 +1,14 @@
-# Catalysis with Zeolites & Isobutene Production
+REFERENCES
 
-### Course: CL-304 Chemical Process Technology
-
-> A comprehensive report on the application of zeolite catalysts in the industrial synthesis of isobutene, detailing the core chemical processes, catalyst advantages, and their impact on modern manufacturing.
-
----
-
-**Project By:**
-* **Harishankar YAdav** (220107043)
----
-
-## 📖 Project Overview
-
-This report investigates the pivotal role of **zeolites** as highly efficient catalysts for the production of **isobutene**, a vital chemical building block. We analyze three primary industrial routes where zeolites have revolutionized the process, leading to significant improvements in efficiency, product purity, and sustainability.
-
-The core of this study focuses on why zeolites are the preferred catalytic material, dissecting their unique structural properties and chemical behavior that result in superior performance compared to traditional catalysts.
-
----
-
-## 🔬 The Science of Zeolites
-
-Zeolites are crystalline aluminosilicates composed of a microporous structure of interconnected channels and cavities. This framework allows them to function as "molecular sieves," selectively interacting with molecules based on their size and shape.
-
-### Key Catalytic Properties
-* **High Surface Area:** A vast internal surface area maximizes the number of active sites available for chemical reactions.
-* **Shape Selectivity:** Uniformly sized pores ensure that only molecules with the correct dimensions can enter and react, leading to exceptionally high product selectivity.
-* **Ion-Exchange Capability:** The ability to swap cations within the framework allows for the precise tuning of the catalyst's acidity and performance characteristics.
-* **Exceptional Stability:** Zeolites are thermally and chemically robust, capable of withstanding the high temperatures and harsh conditions of industrial reactors.
-
----
-
-## 🏭 Industrial Production Routes for Isobutene
-
-Zeolites are instrumental in the following catalytic processes:
-
-### 1. Catalytic Cracking of Butanes
-Zeolites function as solid acid catalysts, breaking down butane feedstocks into lighter olefins. Their shape-selective nature preferentially steers the reaction to yield isobutene over other unwanted byproducts.
-```
-
-n-Butane → Isobutene + Other Products
-
-```
-
-### 2. Dehydrogenation of Isobutane
-The acidic sites within the zeolite structure facilitate the removal of hydrogen from isobutane to form isobutene. This process is highly valued for its excellent conversion rates and the long operational life of the catalyst.
-```
-
-C₄H₁₀ (Isobutane) ⇌ C₄H₈ (Isobutene) + H₂
-
-```
-
-### 3. Dehydration of Tertiary Butanol (TBA)
-Zeolites efficiently catalyze the removal of a water molecule from TBA. The process is remarkably selective, producing high-purity isobutene with minimal side reactions.
-```
-
-C₄H₁₀O (tert-Butanol) → C₄H₈ (Isobutene) + H₂O
-
-```
-
----
-
-## ✨ Core Advantages of Zeolite Catalysts
-
-The use of zeolites provides a distinct competitive advantage in chemical manufacturing:
-
-* **🚀 High Activity:** Achieves rapid reaction rates at lower temperatures and pressures, resulting in significant energy savings and higher throughput.
-* **🎯 Unmatched Selectivity:** Minimizes the creation of undesirable byproducts. This simplifies downstream purification processes and maximizes the yield of high-quality isobutene.
-* **🛡️ Superior Stability:** The robust crystalline structure guarantees a long operational lifespan and consistent performance, which reduces catalyst replacement costs and minimizes costly plant downtime.
-
----
-
-## ✅ Conclusion
-
-The adoption of **zeolite catalysts** in isobutene production marks a significant leap forward in chemical process technology. Their superior **activity, selectivity, and stability** are driving a paradigm shift towards more sustainable, efficient, and profitable industrial operations. This technology not only optimizes the production of a key petrochemical but also exemplifies the powerful potential of advanced materials in modern engineering.
+Pantelopoulos, A., and Bourbakis, N. (2010). A Survey on Wearable Sensor-Based Systems for Health Monitoring and Prognosis. IEEE Transactions on Systems, Man, and Cybernetics.
+Majumder, S., Mondal, T., and Deen, M. J. (2017). Wearable Sensors for Remote Health Monitoring. IEEE Sensors Journal.
+Patel, S., Park, H., Bonato, P., Chan, L., and Rodgers, M. (2012). A Review of Wearable Sensors and Systems with Application in Rehabilitation. Journal of NeuroEngineering and Rehabilitation.
+Islam, S. M. R., Kwak, D., Kabir, M. H., Hossain, M., and Kwak, K. S. (2015). The Internet of Things for Health Care: A Comprehensive Survey. IEEE Access.
+Gubbi, J., Buyya, R., Marusic, S., and Palaniswami, M. (2013). Internet of Things (IoT): A Vision, Architectural Elements, and Future Directions. Future Generation Computer Systems.
+Allen, J. (2007). Photoplethysmography and Its Application in Clinical Physiological Measurement. Physiological Measurement.
+Chan, M., Estève, D., Fourniols, J. Y., Escriba, C., and Campo, E. (2012). Smart Wearable Systems: Current Status and Future Challenges. Artificial Intelligence in Medicine.
+Clifton, D. A., Clifton, L., Sandu, D. M., Smith, G. B., and Tarassenko, L. (2014). Predictive Monitoring of Mobile Patients by Combining Clinical Observations with Data from Wearable Sensors. IEEE Journal of Biomedical and Health Informatics.
+Gao, W., Emaminejad, S., Nyein, H. Y. Y., Challa, S., Chen, K., Peck, A., Fahad, H. M., Ota, H., Shiraki, H., and Kiriya, D. (2016). Fully Integrated Wearable Sensor Arrays for Multiplexed In Situ Perspiration Analysis. Nature.
+Heikenfeld, J., Jajack, A., Rogers, J., Gutruf, P., Tian, L., Pan, T., and Li, R. (2018). Wearable Sensors: Modalities, Challenges, and Prospects. Lab on a Chip.
+Stoppa, M., and Chiolerio, A. (2014). Wearable Electronics and Smart Textiles: A Critical Review. Sensors Journal.
+Yang, G. Z., et al. (2014). The Internet of Things for Smart Healthcare: Technologies, Challenges, and Opportunities. IEEE Transactions.
